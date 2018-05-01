@@ -1,5 +1,5 @@
 # TimeSeriesProject-
-- Forecase Oakland Temperatures by creating a Time-Series Autoregression Model using historic Oakland temperature averages
+- Forecast Oakland Temperatures by creating a Time-Series Autoregression Model using historic Oakland temperature averages
 # Getting Started
 Anaconda and Python3 installation
 
