@@ -46,9 +46,9 @@ My model uses Visualization and Plotting, the Pearson Correlation Coefficient, a
 
 # Persistence Model
 
-Persistence modeling splits the data into two sets. Once set is for training the model and the other is for testing. I split the data into a training set and left the last seven days for the testing data. The model trained on 1,818 observation value. This is 4 years and 358 days. The last seven days of the five year time-series data is what my model used to test or prediction. The prediction is then compared against the acutal observation value of my dataset. 
+Persistence modeling splits the data into two sets. One set is for training the model and the other is for testing. I split the data into a training set and left the last seven days for the testing data. The model trained on 1,818 observation values. This is 4 years and 358 days. The last seven days of the five year time-series data is what my model used to test or make predictions. The predictions is then compared against the acutal observation value of my dataset. 
 
-My presistence model had a MSE of 4 (RMSE of 2).
+My persistence model had a MSE of 4 (RootMSE of 2).
 
 This model is stationary and ready for prediction. 
 
