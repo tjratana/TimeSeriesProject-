@@ -77,7 +77,7 @@ I had so much fun creating a predictive model for Oakland temperatures. To make 
 
 Additionally, this model is ubiquitous an is utilized by many forecasters because of its low margin for error and the consistency in the pattern of historic temperatures. 
 
-One variable that is concerning but exciting at the same time is allocating for climate change. Climate change causes variables to deviate wildly from its historical obeservation value. I find great interest in developing a model that can allocate for such a swing in variable that is inconsistent with temporal time. 
+One variable that is concerning but exciting at the same time is allocating for climate change. Climate change causes variables to deviate wildly from its historical obeservation value. I find great interest in developing a model that can allocate for such a swing in variable that is inconsistent with historical temporal time values. 
 
 This model can be utilzed for any predictive forecast that observes its values over time and has a continous variable. 
 
