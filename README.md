@@ -57,9 +57,9 @@ This model is stationary and ready for prediction.
 I take the same model and train the model to use its learned coefficients to make predicitons. The model take the last 29 observation values and use those values in its regression to make predictions. The coefficients include the intercept and lag variable from t-1 to 
 t-n. 
 
-My Autoregression model had a MSE of 4.6 (RMSE of 2.2)
+My Autoregression model had a MSE of 4.6 (RootMSE of 2.2)
 
-The forecast looks to be nice a warm, consistenct with previous temperatures in historical time-steps. 
+The forecast looks to be moderately warm, consistenct with previous temperatures in historical time-steps. 
 
 # Model Evaluation
 
