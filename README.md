@@ -52,7 +52,7 @@ My persistence model had a MSE of 4 (RootMSE of 2).
 
 This model is stationary and ready for prediction. 
 
-# Autoregression and Prediciton
+# Autoregression and Prediction
 
 I take the same model and train the model to use its learned coefficients to make predicitons. The model take the last 29 observation values and use those values in its regression to make predictions. The coefficients include the intercept and lag variable from t-1 to 
 t-n. 
